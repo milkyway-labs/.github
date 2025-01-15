@@ -12,3 +12,5 @@
 ## Ecosystem
 
 * Explore our [official website](https://www.milkyway.zone/) for updates, insights, and a broader view of the MilkyWay ecosystem as it continues to grow and adapt.
+* Third party wallet services: [Keplr](https://docs.osmosis.zone/overview/educate/wallets/keplr/README.md), [Leap](https://chromewebstore.google.com/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg), and [Cosmostation](https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?hl=en-US).
+* Third party block explorers: [Mintscan](https://www.mintscan.io/milkyway)
